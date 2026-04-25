@@ -2,4 +2,3 @@
 # Display listening sockets with PID and program name.
 
 netstat -lpn
-
